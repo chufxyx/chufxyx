@@ -1,7 +1,7 @@
 # Hi, I'm Sahil 👋  
 
 ### 2nd Year BCA Student | Full-Stack Developer (MERN) | Open Source Contributor  
-📍 Chandigarh, India | ✉️ [Your Email] | 🔗 [Portfolio](#)  
+📍 Chandigarh, India | ✉️ sahilnarula076@gmail.com | 🔗 [Portfolio](#)  
 
 Passionate about **web development** and **open-source contributions**, I enjoy building scalable applications with **React, Node.js, and TypeScript**. Currently exploring **competitive programming** in **C++** and **Python**.  
 
