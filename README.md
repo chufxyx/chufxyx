@@ -1,4 +1,4 @@
-# Hi, I'm Sahil 👋  
+# Hi, I'm Sahil Narula 👋  
 
 ### 2nd Year BCA Student | Full-Stack Developer (MERN) | Open Source Contributor  
 📍 Chandigarh, India | ✉️ sahilnarula076@gmail.com | 🔗 [Portfolio](#)  
